@@ -1,3 +1,6 @@
+// Testbench for integrated digital system
+// Includes counter, register, adder, LUT
+// Author: Prateek Dalin
 `timescale 1ns/1ps
 
 module testbench;
